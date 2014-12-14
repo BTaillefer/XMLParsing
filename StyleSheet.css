@@ -1,0 +1,39 @@
+#header {
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 200px;
+	position: absolute;
+	text-align: center;
+	width: 100%;
+}
+
+#footer {
+	position: relative;
+	z-index: 10;
+	height: 80px;
+	text-align: center;
+	bottom: 0px;
+	padding-top: 50px;
+	width: 100%;
+}
+body {
+	padding-top: 200px;
+	text-align: center;
+	
+}
+#menu {
+	position: absolute;
+	left:0px;
+	top:200px;
+	width:150px;
+	height:100%;
+}
+
+html {
+	background-color: #E0E0D1;
+}
+#xml {
+	text-align: center;
+}
+}
